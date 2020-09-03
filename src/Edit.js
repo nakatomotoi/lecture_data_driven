@@ -1,12 +1,10 @@
 import React from "react";
-import logo from "./images/logo.svg";
 import "./App.css";
 import Button from "@material-ui/core/Button";
 import color from "./images/onepiece_color.png";
 import before from "./images/onepiece_before.png";
 import styled from "styled-components";
 import Dialog from "@material-ui/core/Dialog";
-import DialogActions from "@material-ui/core/DialogActions";
 import DialogContent from "@material-ui/core/DialogContent";
 
 export default class Edit extends React.Component {
