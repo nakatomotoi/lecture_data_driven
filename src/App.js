@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "./images/logo.svg";
-import before from "./images/onepiece_before.png";
+import before from "./images/test.jpg";
 import "./App.css";
 import Button from "@material-ui/core/Button";
 import history from "./history";

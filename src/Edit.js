@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
 import Button from "@material-ui/core/Button";
-import color from "./images/onepiece_color.png";
-import before from "./images/onepiece_before.png";
+import color from "./images/test_after.jpg";
+import before from "./images/test.jpg";
 import styled from "styled-components";
 import Dialog from "@material-ui/core/Dialog";
 import DialogContent from "@material-ui/core/DialogContent";
